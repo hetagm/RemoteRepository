@@ -48,3 +48,17 @@
 * # `q` - выход
 * # `CTRL + S` - сохраннение информации перед git unit
 * # `clear` - отчистить командную строку
+
+---
+
+# **ИНТЕРЕСНЫЕ ССЫЛКИ И СТАТЬИ ПО НАСТРОЙКЕ GIT**
+
+[GitHub: настройка и первая публикация проекта](#https://gb.ru/posts/github-nastrojka-i-pervaya-publikaciya-proekta)
+
+[Как устроен и работает GitHub](#https://gb.ru/posts/kak-ustroen-i-rabotaet-github)
+
+[GitHub: работа с ветками и коммитами](#https://gb.ru/posts/github-rabota-s-vetkami-i-kommitami)
+
+[Установщик](#https://githowto.com/ru)
+
+[Сcылка на бесплатный базовый курс GIT](#https://gb.ru/chapters/7831)
