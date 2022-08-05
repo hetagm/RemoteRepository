@@ -29,3 +29,8 @@ ________________________________________________________________________________
 
 <a href="https://ibb.co/4VdrsKx"><img src="https://i.ibb.co/z4Jv8Qw/log.jpg" alt="log" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
 
+* # `git checkout` - команда позволяет переключаться меджу версиями
+> Для работы необходиомо указать интересующий коммит, и выбрать тот, в котром желаем остаться. При момощи команды git checkout master
+
+
+Hernia -Mernua test
