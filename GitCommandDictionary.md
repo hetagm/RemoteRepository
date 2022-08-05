@@ -8,3 +8,9 @@
 * `git --version` - указывает актуальную версию GIT
 * `git init`      - указываем папку в которой необходимо отследить изменения (Создаётся скрытая папка .git)
 
+* `git add` - добавляет содержимое для последующего commit
+>Клавиша TAB - позволяет быстро переходить из разных директорий. Пример: gitt add .\hello_world.md
+
+
+<a href="https://ibb.co/4F6hdQ6"><img src="https://i.ibb.co/wd95sv9/add.jpg" alt="add" border="0"></a>
+
