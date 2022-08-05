@@ -35,3 +35,7 @@ ________________________________________________________________________________
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/2SM2Dc0/checkout.jpg" alt="checkout" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
 
+* # `git diff` - показ разницы между текущим файлом и сохраненным
+>  Перед переключением версии файла в GIT используй команду git log, чтобы увидеть все сохранения
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/fCVqtX1/diff.jpg" alt="diff" border="0"></a>
