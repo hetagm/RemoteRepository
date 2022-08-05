@@ -8,6 +8,9 @@
 ## КОМАНДЫ
 
 * # `git --version` - указывает актуальную версию GIT
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/RQFhd5m/version.jpg" alt="version" border="0"></a>
+
 * # `git init`      - указываем папку в которой необходимо отследить изменения (Создаётся скрытая папка .git)
 
 <a href="https://ibb.co/8cfGtmp"><img src="https://i.ibb.co/3zjVQTq/init.jpg" alt="init" border="0"></a>
