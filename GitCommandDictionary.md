@@ -61,6 +61,9 @@
 <a href="https://ibb.co/GWTFvdD"><img src="https://i.ibb.co/Cb2W5wy/git-branch-name.jpg" alt="git-branch-name" border="0"></a>
 <br/><br/>
 
+* # `git branch -d (branch name)` - команда удаляет ненужную ветку
+<a href="https://ibb.co/gzNkHRP"><img src="https://i.ibb.co/72Ps81R/git-branch-d.jpg" alt="git-branch-d" border="0"></a>
+ 
 
 ### ВСПОМОГАТЕЛЬНЫЕ КОМАНДЫ ТЕРМИНАЛА
 
