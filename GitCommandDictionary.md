@@ -57,6 +57,10 @@
 <a href="https://ibb.co/Sfs37Z9"><img src="https://i.ibb.co/tLmJP1W/branch.jpg" alt="branch" border="0"></a>
 <br/><br/>
 
+* # `git branch (new branch name)` - команда создаёт новую ветку с именем 
+<a href="https://ibb.co/GWTFvdD"><img src="https://i.ibb.co/Cb2W5wy/git-branch-name.jpg" alt="git-branch-name" border="0"></a>
+<br/><br/>
+
 
 ### ВСПОМОГАТЕЛЬНЫЕ КОМАНДЫ ТЕРМИНАЛА
 
