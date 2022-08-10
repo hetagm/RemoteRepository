@@ -53,6 +53,11 @@
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/fCVqtX1/diff.jpg" alt="diff" border="0"></a>
 <br/><br/>
 
+* # `git branch` - команда выводит все ветки репозитория
+<a href="https://ibb.co/Sfs37Z9"><img src="https://i.ibb.co/tLmJP1W/branch.jpg" alt="branch" border="0"></a>
+<br/><br/>
+
+
 ### ВСПОМОГАТЕЛЬНЫЕ КОМАНДЫ ТЕРМИНАЛА
 
 * # `q` - выход
