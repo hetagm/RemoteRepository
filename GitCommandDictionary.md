@@ -63,7 +63,10 @@
 
 * # `git branch -d (branch name)` - команда удаляет ненужную ветку
 <a href="https://ibb.co/gzNkHRP"><img src="https://i.ibb.co/72Ps81R/git-branch-d.jpg" alt="git-branch-d" border="0"></a>
+ <br/><br/>
  
+* # `git log --graph` - команда выводит список commit в виде древа
+<a href="https://ibb.co/Dfd7YWZ"><img src="https://i.ibb.co/k2ZhJBt/git-log-graph.jpg" alt="git-log-graph" border="0"></a>
 
 ### ВСПОМОГАТЕЛЬНЫЕ КОМАНДЫ ТЕРМИНАЛА
 
