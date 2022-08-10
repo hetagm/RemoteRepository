@@ -69,9 +69,21 @@
 <a href="https://ibb.co/Dfd7YWZ"><img src="https://i.ibb.co/k2ZhJBt/git-log-graph.jpg" alt="git-log-graph" border="0"></a>
  <br/><br/>
 
-* # `git merge (name branch)` - команда слияния ветки *с текущей веткой*!
-<a href="https://ibb.co/ykgQNgV"><img src="https://i.ibb.co/bvNK6N7/git-merge-branch-name.jpg" alt="git-merge-branch-name" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>check whatsapp picture</a><br />
-<br/><br/>
+*Блок А. А. - Летний вечер*
+Последние лучи заката
+Лежат на поле сжатой ржи.
+Дремотой розовой объята
+Трава некошенной межи.
+Ни ветерка, ни крика птицы,
+Над рощей — красный диск луны,
+И замирает песня жницы
+Среди вечерней тишины.
+Забудь заботы и печали,
+Умчись без цели на коне
+В туман и в луговые дали,
+Навстречу ночи и луне!
+
+13 декабря 1898
 
 
 ### ВСПОМОГАТЕЛЬНЫЕ КОМАНДЫ ТЕРМИНАЛА
