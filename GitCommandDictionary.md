@@ -120,6 +120,9 @@ contract WETH9 {
     event  Transfer(address indexed src, address indexed dst, uint wad);
     event  Deposit(address indexed dst, uint wad);
 
+    Добавляем строку на локальном репозитории
+    
+
 
 # **ИНТЕРЕСНЫЕ ССЫЛКИ И СТАТЬИ ПО НАСТРОЙКЕ GIT**
 
